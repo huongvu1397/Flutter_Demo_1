@@ -24,3 +24,4 @@ Solve the tasks:
 
 3. Split the app into three custom widgets: App, TextControl & Text
 
+<img src="https://user-images.githubusercontent.com/39198328/168914089-04a4f403-4fee-4fb4-86a4-520f4ea91021.png" width="300">
